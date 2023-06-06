@@ -1,0 +1,17 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+    padding: 35px;
+}
+
+.card {
+    display: none;
+}
+
+.card.active {
+    display: block;
+}
+
+#quizContainer {
+    min-width: 620px
+}
